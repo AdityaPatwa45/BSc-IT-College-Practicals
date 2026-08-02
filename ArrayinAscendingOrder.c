@@ -7,7 +7,6 @@ int main()
 
     int arr[10] = {8, 3, 4, 9, 1, 6, 7, 2, 5, 10};
 
-    int min = 0;
 
     for (int i = 0; i < 10; i++)
     {
